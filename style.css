@@ -1,0 +1,46 @@
+#fooLogo{
+    left: 45%;
+    position: relative
+}
+#waiterPeter{
+    background-color: orange;
+    display: inline-block;
+    border: 5px solid black;
+}
+#waiterJonas{
+    background-color: orange;
+    display: inline-block;
+    border: 5px solid black;
+}
+#waiterMartin{
+    background-color: orange;
+    display: inline-block;
+    border: 5px solid black;
+}
+#orderMartin{
+    background-color: orange;
+    display: inline-block;
+    border: 5px solid black;
+    height: 177px;
+    width: 100px;
+}
+#orderJonas{
+    background-color: orange;
+    display: inline-block;
+    border: 5px solid black;
+    height: 177px;
+    width: 100px;
+}
+#orderPeter{
+    background-color: orange;
+    display: inline-block;
+    border: 5px solid black;
+    height: 177px;
+    width: 100px;
+}
+
+#image{
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
